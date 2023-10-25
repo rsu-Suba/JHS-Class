@@ -189,3 +189,35 @@ font-size : 24px;
 .bad-subs text{
 font-size : 24px;
 }
+
+.page-top-btn{
+    text-decoration:none !important;
+    background-color:white !important;
+    position:fixed;
+    bottom:20px;
+    right:20px;
+    border-radius:25px;
+    text-align:center;
+    box-shadow:0px 5px 15px #666;
+    }
+    
+    .page-top-btn:hover{
+    text-decoration:none !important;
+    color:#000000 !important;
+    box-shadow:0px 0px 18px #fff;
+    }
+    
+    .page-top-btn:active{
+    box-shadow:inset 0px 0px 10px #666;
+    }
+    
+    .material-symbols-rounded {
+    padding-top:30px;
+    padding-bottom:30px;
+    padding-left:30px;    
+    padding-right:30px;
+    position:relative;
+    text-decoration:none !important;
+    color:#4f9eff !important;
+      font-size:35px;
+    }
