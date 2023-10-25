@@ -5,3 +5,5 @@
 - NoSpace.html : index.htmlの改行と空白を全削除して高速化したバージョン
 
 ### 一部画像ファイルのリンク先が閉鎖済みドメインのためリンク切れあり
+
+# [Github Pages](https://rsu-suba.github.io/JHS-Class/)
